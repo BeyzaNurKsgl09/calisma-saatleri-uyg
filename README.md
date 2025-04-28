@@ -25,3 +25,7 @@ Bu proje, C# programlama dili ve Windows Forms kullanılarak geliştirilmiş bas
 - Bu uygulama, temel düzeyde bir çalışma saatleri takip sistemi sunar.
 - Veritabanı bağlantısı veya gelişmiş raporlama özellikleri içermez.
 - Geliştirmeye ve yeni özellikler eklemeye açıktır.
+## 📷 Ekran Görüntüleri
+![calismasaatleriuyg3](https://github.com/user-attachments/assets/0ffb4942-9d2a-4504-adb1-0f8e5264c158)
+
+
